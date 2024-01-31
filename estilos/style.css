@@ -95,7 +95,7 @@ div.campo > input {
     transform: translateY(-13px);
 }
 
-div.campo > input > :focus-within {
+div.campo > input:focus-within {
     background-color: white;
 }
 
